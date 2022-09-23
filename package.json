@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "esbuild": "^0.14.36",
-    "reveal.js": "^4.3.0"
+    "reveal.js": "^4.3.1"
   }
 }
